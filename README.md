@@ -3,6 +3,8 @@
 - 👨‍💻 Instructed by Prof. Ling-Chieh Kung and Prof. Cheng-Yuan Ho
 - 🏅 Rated ${1st}$ in 02 class, ${4th}$ in 50 teams
 
+Test
+
 ## Goal
 
 - There are a total of  ${n_I}$  employees, and  ${n_K}$  represents the number of shift types.
